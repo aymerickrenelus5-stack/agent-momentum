@@ -1,0 +1,663 @@
+{
+ "debut": "2026-10-08",
+ "capital_initial": 10000.0,
+ "liquidites": 0.010000000010734311,
+ "positions": {
+  "ABNB": {
+   "actions": 1.2240397306234267,
+   "prix_achat": 163.22999572753906,
+   "secteur": "Conso. cyclique",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 163.22999572753906
+  },
+  "ADP": {
+   "actions": 0.7380046241348911,
+   "prix_achat": 270.7300109863281,
+   "secteur": "Industrie",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 270.7300109863281
+  },
+  "AES": {
+   "actions": 13.382451166510384,
+   "prix_achat": 14.930000305175781,
+   "secteur": "Services publics",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 14.930000305175781
+  },
+  "AIZ": {
+   "actions": 0.732243680738202,
+   "prix_achat": 272.8599853515625,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 272.8599853515625
+  },
+  "AMD": {
+   "actions": 0.3219050112098065,
+   "prix_achat": 620.6799926757812,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 620.6799926757812
+  },
+  "BAC": {
+   "actions": 3.7269165776025117,
+   "prix_achat": 53.61000061035156,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 53.61000061035156
+  },
+  "BAX": {
+   "actions": 8.359832769415194,
+   "prix_achat": 23.899999618530273,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 23.899999618530273
+  },
+  "BEN": {
+   "actions": 6.166666376247342,
+   "prix_achat": 32.400001525878906,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 32.400001525878906
+  },
+  "BNY": {
+   "actions": 1.3912680116345477,
+   "prix_achat": 143.61000061035156,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 143.61000061035156
+  },
+  "BXP": {
+   "actions": 3.368172640389156,
+   "prix_achat": 59.31999969482422,
+   "secteur": "Immobilier",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 59.31999969482422
+  },
+  "CNC": {
+   "actions": 3.0957545268942064,
+   "prix_achat": 64.54000091552734,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 64.54000091552734
+  },
+  "CPAY": {
+   "actions": 0.4969160532044787,
+   "prix_achat": 402.0799865722656,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 402.0799865722656
+  },
+  "CRL": {
+   "actions": 0.6704697986577182,
+   "prix_achat": 298.0,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 298.0
+  },
+  "CRWD": {
+   "actions": 0.7596669046096266,
+   "prix_achat": 263.010009765625,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 263.010009765625
+  },
+  "DASH": {
+   "actions": 1.0421991184748503,
+   "prix_achat": 191.7100067138672,
+   "secteur": "Conso. cyclique",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 191.7100067138672
+  },
+  "DDOG": {
+   "actions": 0.7297297622638204,
+   "prix_achat": 273.79998779296875,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 273.79998779296875
+  },
+  "DELL": {
+   "actions": 0.3477504207553742,
+   "prix_achat": 574.5499877929688,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 574.5499877929688
+  },
+  "EXPD": {
+   "actions": 1.0314387128958622,
+   "prix_achat": 193.7100067138672,
+   "secteur": "Industrie",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 193.7100067138672
+  },
+  "FTNT": {
+   "actions": 1.0565837839826777,
+   "prix_achat": 189.10000610351562,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 189.10000610351562
+  },
+  "GEN": {
+   "actions": 8.782417582417583,
+   "prix_achat": 22.75,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 22.75
+  },
+  "GL": {
+   "actions": 1.2030346688173033,
+   "prix_achat": 166.0800018310547,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 166.0800018310547
+  },
+  "HPE": {
+   "actions": 2.8140845070422538,
+   "prix_achat": 71.0,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 71.0
+  },
+  "HUM": {
+   "actions": 0.5161190393679286,
+   "prix_achat": 387.1199951171875,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 387.1199951171875
+  },
+  "IBKR": {
+   "actions": 2.3106279308362354,
+   "prix_achat": 86.47000122070312,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 86.47000122070312
+  },
+  "INTC": {
+   "actions": 1.865894626292911,
+   "prix_achat": 107.08000183105469,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 107.08000183105469
+  },
+  "IQV": {
+   "actions": 0.7717861411909495,
+   "prix_achat": 258.8800048828125,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 258.8800048828125
+  },
+  "MET": {
+   "actions": 2.029044353845224,
+   "prix_achat": 98.47000122070312,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 98.47000122070312
+  },
+  "MPC": {
+   "actions": 0.43121682043243226,
+   "prix_achat": 463.3399963378906,
+   "secteur": "Énergie",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 463.3399963378906
+  },
+  "MRVL": {
+   "actions": 0.7274448311949956,
+   "prix_achat": 274.6600036621094,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 274.6600036621094
+  },
+  "MS": {
+   "actions": 1.0659410872684847,
+   "prix_achat": 187.44000244140625,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 187.44000244140625
+  },
+  "MU": {
+   "actions": 0.19288693870946796,
+   "prix_achat": 1035.8399658203125,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 1035.8399658203125
+  },
+  "NTAP": {
+   "actions": 0.8647478786453102,
+   "prix_achat": 231.0500030517578,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 231.0500030517578
+  },
+  "NTRS": {
+   "actions": 1.1857566765578635,
+   "prix_achat": 168.5,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 168.5
+  },
+  "NUE": {
+   "actions": 0.8117331620030983,
+   "prix_achat": 246.13999938964844,
+   "secteur": "Matériaux",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 246.13999938964844
+  },
+  "PANW": {
+   "actions": 0.5013801756587203,
+   "prix_achat": 398.5,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 398.5
+  },
+  "PAYX": {
+   "actions": 1.912693870870415,
+   "prix_achat": 104.45999908447266,
+   "secteur": "Industrie",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 104.45999908447266
+  },
+  "PSX": {
+   "actions": 0.7095170300761781,
+   "prix_achat": 281.6000061035156,
+   "secteur": "Énergie",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 281.6000061035156
+  },
+  "RVTY": {
+   "actions": 1.3130914510470262,
+   "prix_achat": 152.16000366210938,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 152.16000366210938
+  },
+  "SJM": {
+   "actions": 1.6732266466163723,
+   "prix_achat": 119.41000366210938,
+   "secteur": "Conso. de base",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 119.41000366210938
+  },
+  "SNDK": {
+   "actions": 0.1241410192544447,
+   "prix_achat": 1609.4599609375,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 1609.4599609375
+  },
+  "SOLV": {
+   "actions": 2.312232282517677,
+   "prix_achat": 86.41000366210938,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 86.41000366210938
+  },
+  "STT": {
+   "actions": 1.1411274440512509,
+   "prix_achat": 175.08999633789062,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 175.08999633789062
+  },
+  "STX": {
+   "actions": 0.25786467505854593,
+   "prix_achat": 774.8250122070312,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 774.8250122070312
+  },
+  "TGT": {
+   "actions": 1.2910313200558727,
+   "prix_achat": 154.75999450683594,
+   "secteur": "Conso. de base",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 154.75999450683594
+  },
+  "UNH": {
+   "actions": 0.5386170465698474,
+   "prix_achat": 370.95001220703125,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 370.95001220703125
+  },
+  "V": {
+   "actions": 0.5326579492106476,
+   "prix_achat": 375.1000061035156,
+   "secteur": "Finance",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 375.1000061035156
+  },
+  "VEEV": {
+   "actions": 0.7014464350820586,
+   "prix_achat": 284.8399963378906,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 284.8399963378906
+  },
+  "VLO": {
+   "actions": 0.4502028064345195,
+   "prix_achat": 443.79998779296875,
+   "secteur": "Énergie",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 443.79998779296875
+  },
+  "WST": {
+   "actions": 0.5500041457938338,
+   "prix_achat": 363.2699890136719,
+   "secteur": "Santé",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 363.2699890136719
+  },
+  "ZBRA": {
+   "actions": 0.5228450105750184,
+   "prix_achat": 382.1400146484375,
+   "secteur": "IT",
+   "date_achat": "2026-10-08",
+   "dernier_prix": 382.1400146484375
+  }
+ },
+ "dernier_reequilibrage": "2026-09",
+ "spy_parts": 12.921065334896836,
+ "spy_prix_depart": 773.9299926757812,
+ "signaux": [
+  {
+   "rang": 1,
+   "ticker": "HUM",
+   "score": 2.994,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 2,
+   "ticker": "PANW",
+   "score": 2.441,
+   "secteur": "IT"
+  },
+  {
+   "rang": 3,
+   "ticker": "STT",
+   "score": 2.253,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 4,
+   "ticker": "CNC",
+   "score": 2.236,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 5,
+   "ticker": "CRWD",
+   "score": 2.153,
+   "secteur": "IT"
+  },
+  {
+   "rang": 6,
+   "ticker": "FTNT",
+   "score": 2.153,
+   "secteur": "IT"
+  },
+  {
+   "rang": 7,
+   "ticker": "DELL",
+   "score": 2.014,
+   "secteur": "IT"
+  },
+  {
+   "rang": 8,
+   "ticker": "MU",
+   "score": 2.005,
+   "secteur": "IT"
+  },
+  {
+   "rang": 9,
+   "ticker": "AES",
+   "score": 1.831,
+   "secteur": "Services publics"
+  },
+  {
+   "rang": 10,
+   "ticker": "HPE",
+   "score": 1.778,
+   "secteur": "IT"
+  },
+  {
+   "rang": 11,
+   "ticker": "BNY",
+   "score": 1.756,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 12,
+   "ticker": "AMD",
+   "score": 1.752,
+   "secteur": "IT"
+  },
+  {
+   "rang": 13,
+   "ticker": "MET",
+   "score": 1.67,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 14,
+   "ticker": "BEN",
+   "score": 1.66,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 15,
+   "ticker": "UNH",
+   "score": 1.57,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 16,
+   "ticker": "NTAP",
+   "score": 1.567,
+   "secteur": "IT"
+  },
+  {
+   "rang": 17,
+   "ticker": "STX",
+   "score": 1.536,
+   "secteur": "IT"
+  },
+  {
+   "rang": 18,
+   "ticker": "MPC",
+   "score": 1.503,
+   "secteur": "Énergie"
+  },
+  {
+   "rang": 19,
+   "ticker": "CRL",
+   "score": 1.471,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 20,
+   "ticker": "BAX",
+   "score": 1.436,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 21,
+   "ticker": "AIZ",
+   "score": 1.422,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 22,
+   "ticker": "GEN",
+   "score": 1.418,
+   "secteur": "IT"
+  },
+  {
+   "rang": 23,
+   "ticker": "NUE",
+   "score": 1.381,
+   "secteur": "Matériaux"
+  },
+  {
+   "rang": 24,
+   "ticker": "NTRS",
+   "score": 1.374,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 25,
+   "ticker": "ADP",
+   "score": 1.371,
+   "secteur": "Industrie"
+  },
+  {
+   "rang": 26,
+   "ticker": "DDOG",
+   "score": 1.342,
+   "secteur": "IT"
+  },
+  {
+   "rang": 27,
+   "ticker": "BAC",
+   "score": 1.326,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 28,
+   "ticker": "SOLV",
+   "score": 1.325,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 29,
+   "ticker": "VEEV",
+   "score": 1.288,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 30,
+   "ticker": "SJM",
+   "score": 1.278,
+   "secteur": "Conso. de base"
+  },
+  {
+   "rang": 31,
+   "ticker": "ZBRA",
+   "score": 1.272,
+   "secteur": "IT"
+  },
+  {
+   "rang": 32,
+   "ticker": "SNDK",
+   "score": 1.269,
+   "secteur": "IT"
+  },
+  {
+   "rang": 33,
+   "ticker": "PAYX",
+   "score": 1.266,
+   "secteur": "Industrie"
+  },
+  {
+   "rang": 34,
+   "ticker": "IQV",
+   "score": 1.256,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 35,
+   "ticker": "VLO",
+   "score": 1.247,
+   "secteur": "Énergie"
+  },
+  {
+   "rang": 36,
+   "ticker": "EXPD",
+   "score": 1.242,
+   "secteur": "Industrie"
+  },
+  {
+   "rang": 37,
+   "ticker": "BXP",
+   "score": 1.234,
+   "secteur": "Immobilier"
+  },
+  {
+   "rang": 38,
+   "ticker": "MRVL",
+   "score": 1.195,
+   "secteur": "IT"
+  },
+  {
+   "rang": 39,
+   "ticker": "CPAY",
+   "score": 1.187,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 40,
+   "ticker": "INTC",
+   "score": 1.178,
+   "secteur": "IT"
+  },
+  {
+   "rang": 41,
+   "ticker": "WST",
+   "score": 1.167,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 42,
+   "ticker": "V",
+   "score": 1.164,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 43,
+   "ticker": "IBKR",
+   "score": 1.158,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 44,
+   "ticker": "PSX",
+   "score": 1.146,
+   "secteur": "Énergie"
+  },
+  {
+   "rang": 45,
+   "ticker": "DASH",
+   "score": 1.142,
+   "secteur": "Conso. cyclique"
+  },
+  {
+   "rang": 46,
+   "ticker": "GL",
+   "score": 1.139,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 47,
+   "ticker": "RVTY",
+   "score": 1.138,
+   "secteur": "Santé"
+  },
+  {
+   "rang": 48,
+   "ticker": "ABNB",
+   "score": 1.116,
+   "secteur": "Conso. cyclique"
+  },
+  {
+   "rang": 49,
+   "ticker": "MS",
+   "score": 1.11,
+   "secteur": "Finance"
+  },
+  {
+   "rang": 50,
+   "ticker": "TGT",
+   "score": 1.106,
+   "secteur": "Conso. de base"
+  }
+ ],
+ "derniere_execution": "2026-10-08 23:08 UTC"
+}
