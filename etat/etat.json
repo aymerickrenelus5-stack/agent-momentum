@@ -120,7 +120,7 @@
    "prix_achat": 574.5499877929688,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 586.3800048828125
+   "dernier_prix": 586.0599975585938
   },
   "EXPD": {
    "actions": 1.0314387128958622,
@@ -162,7 +162,7 @@
    "prix_achat": 387.1199951171875,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 431.7980041503906
+   "dernier_prix": 431.8699951171875
   },
   "IBKR": {
    "actions": 2.3106279308362354,
@@ -659,5 +659,5 @@
    "secteur": "Conso. de base"
   }
  ],
- "derniere_execution": "2026-10-09 20:18 UTC"
+ "derniere_execution": "2026-10-10 06:32 UTC"
 }

@@ -1,32 +1,32 @@
 {
  "strategie": "Momentum S&P 500 (V5) — 50 titres, rééquilibrage mensuel",
  "date_cours": "2026-10-09",
- "derniere_execution": "2026-10-09 20:18 UTC",
+ "derniere_execution": "2026-10-10 06:32 UTC",
  "debut_simulation": "2026-10-08",
  "capital_initial": 10000.0,
- "valeur_strategie": 10092.32,
+ "valeur_strategie": 10092.25,
  "valeur_spy": 10059.95,
  "liquidites": 0.01,
  "performances": {
   "semaine": {
-   "strategie": 0.01024,
+   "strategie": 0.01023,
    "spy": 0.00599,
-   "ecart": 0.00425
+   "ecart": 0.00424
   },
   "mois_en_cours": {
-   "strategie": 0.01024,
+   "strategie": 0.01023,
    "spy": 0.00599,
-   "ecart": 0.00425
+   "ecart": 0.00424
   },
   "annee_en_cours": {
-   "strategie": 0.01024,
+   "strategie": 0.01023,
    "spy": 0.00599,
-   "ecart": 0.00425
+   "ecart": 0.00424
   },
   "depuis_debut": {
-   "strategie": 0.01024,
+   "strategie": 0.01023,
    "spy": 0.00599,
-   "ecart": 0.00425
+   "ecart": 0.00424
   }
  },
  "pire_baisse_depuis_debut": {
@@ -44,10 +44,10 @@
   {
    "ticker": "HUM",
    "secteur": "Santé",
-   "valeur": 222.86,
-   "prix": 431.7980041503906,
+   "valeur": 222.9,
+   "prix": 431.8699951171875,
    "prix_achat": 387.1199951171875,
-   "perf_depuis_achat": 0.1154,
+   "perf_depuis_achat": 0.1156,
    "date_achat": "2026-10-08",
    "poids": 0.0221
   },
@@ -164,10 +164,10 @@
   {
    "ticker": "DELL",
    "secteur": "IT",
-   "valeur": 203.91,
-   "prix": 586.3800048828125,
+   "valeur": 203.8,
+   "prix": 586.0599975585938,
    "prix_achat": 574.5499877929688,
-   "perf_depuis_achat": 0.0206,
+   "perf_depuis_achat": 0.02,
    "date_achat": "2026-10-08",
    "poids": 0.0202
   },
@@ -557,7 +557,7 @@
  "meilleures_lignes": [
   {
    "ticker": "HUM",
-   "perf": 0.1154
+   "perf": 0.1156
   },
   {
    "ticker": "DDOG",
@@ -909,7 +909,7 @@
   },
   {
    "date": "2026-10-09",
-   "strategie": 10092.32,
+   "strategie": 10092.25,
    "spy": 10059.95
   }
  ]
