@@ -1,39 +1,39 @@
 {
  "strategie": "Momentum S&P 500 (V5) — 50 titres, rééquilibrage mensuel",
- "date_cours": "2026-10-09",
- "derniere_execution": "2026-10-10 06:32 UTC",
+ "date_cours": "2026-10-16",
+ "derniere_execution": "2026-10-17 06:45 UTC",
  "debut_simulation": "2026-10-08",
  "capital_initial": 10000.0,
- "valeur_strategie": 10092.25,
- "valeur_spy": 10059.95,
+ "valeur_strategie": 9737.03,
+ "valeur_spy": 9862.0,
  "liquidites": 0.01,
  "performances": {
   "semaine": {
-   "strategie": 0.01023,
-   "spy": 0.00599,
-   "ecart": 0.00424
+   "strategie": -0.0352,
+   "spy": -0.01968,
+   "ecart": -0.01552
   },
   "mois_en_cours": {
-   "strategie": 0.01023,
-   "spy": 0.00599,
-   "ecart": 0.00424
+   "strategie": -0.02532,
+   "spy": -0.0138,
+   "ecart": -0.01152
   },
   "annee_en_cours": {
-   "strategie": 0.01023,
-   "spy": 0.00599,
-   "ecart": 0.00424
+   "strategie": -0.02532,
+   "spy": -0.0138,
+   "ecart": -0.01152
   },
   "depuis_debut": {
-   "strategie": 0.01023,
-   "spy": 0.00599,
-   "ecart": 0.00424
+   "strategie": -0.02532,
+   "spy": -0.0138,
+   "ecart": -0.01152
   }
  },
  "pire_baisse_depuis_debut": {
-  "strategie": 0.0,
-  "spy": 0.0
+  "strategie": -0.0352,
+  "spy": -0.01968
  },
- "nb_semaines_suivies": 2,
+ "nb_semaines_suivies": 3,
  "semaines_battant_spy": 1,
  "dernier_reequilibrage": "2026-09",
  "reequilibrage_cette_semaine": false,
@@ -42,560 +42,560 @@
  "nb_transactions_totales": 50,
  "positions": [
   {
-   "ticker": "HUM",
-   "secteur": "Santé",
-   "valeur": 222.9,
-   "prix": 431.8699951171875,
-   "prix_achat": 387.1199951171875,
-   "perf_depuis_achat": 0.1156,
-   "date_achat": "2026-10-08",
-   "poids": 0.0221
-  },
-  {
-   "ticker": "DDOG",
-   "secteur": "IT",
-   "valeur": 214.0,
-   "prix": 293.260009765625,
-   "prix_achat": 273.79998779296875,
-   "perf_depuis_achat": 0.0711,
-   "date_achat": "2026-10-08",
-   "poids": 0.0212
-  },
-  {
-   "ticker": "PANW",
-   "secteur": "IT",
-   "valeur": 209.97,
-   "prix": 418.7799987792969,
-   "prix_achat": 398.5,
-   "perf_depuis_achat": 0.0509,
-   "date_achat": "2026-10-08",
-   "poids": 0.0208
-  },
-  {
-   "ticker": "CRWD",
-   "secteur": "IT",
-   "valeur": 208.94,
-   "prix": 275.0400085449219,
-   "prix_achat": 263.010009765625,
-   "perf_depuis_achat": 0.0457,
-   "date_achat": "2026-10-08",
-   "poids": 0.0207
-  },
-  {
    "ticker": "VEEV",
    "secteur": "Santé",
-   "valeur": 207.72,
-   "prix": 296.1300048828125,
+   "valeur": 217.7,
+   "prix": 310.3599853515625,
    "prix_achat": 284.8399963378906,
-   "perf_depuis_achat": 0.0396,
+   "perf_depuis_achat": 0.0896,
    "date_achat": "2026-10-08",
-   "poids": 0.0206
-  },
-  {
-   "ticker": "HPE",
-   "secteur": "IT",
-   "valeur": 206.72,
-   "prix": 73.45999908447266,
-   "prix_achat": 71.0,
-   "perf_depuis_achat": 0.0346,
-   "date_achat": "2026-10-08",
-   "poids": 0.0205
-  },
-  {
-   "ticker": "FTNT",
-   "secteur": "IT",
-   "valeur": 205.77,
-   "prix": 194.75,
-   "prix_achat": 189.10000610351562,
-   "perf_depuis_achat": 0.0299,
-   "date_achat": "2026-10-08",
-   "poids": 0.0204
-  },
-  {
-   "ticker": "V",
-   "secteur": "Finance",
-   "valeur": 205.31,
-   "prix": 385.45001220703125,
-   "prix_achat": 375.1000061035156,
-   "perf_depuis_achat": 0.0276,
-   "date_achat": "2026-10-08",
-   "poids": 0.0203
-  },
-  {
-   "ticker": "NTAP",
-   "secteur": "IT",
-   "valeur": 205.07,
-   "prix": 237.14999389648438,
-   "prix_achat": 231.0500030517578,
-   "perf_depuis_achat": 0.0264,
-   "date_achat": "2026-10-08",
-   "poids": 0.0203
-  },
-  {
-   "ticker": "DASH",
-   "secteur": "Conso. cyclique",
-   "valeur": 204.79,
-   "prix": 196.5,
-   "prix_achat": 191.7100067138672,
-   "perf_depuis_achat": 0.025,
-   "date_achat": "2026-10-08",
-   "poids": 0.0203
+   "poids": 0.0224
   },
   {
    "ticker": "UNH",
    "secteur": "Santé",
-   "valeur": 204.3,
-   "prix": 379.29998779296875,
+   "valeur": 216.22,
+   "prix": 401.42999267578125,
    "prix_achat": 370.95001220703125,
-   "perf_depuis_achat": 0.0225,
+   "perf_depuis_achat": 0.0822,
    "date_achat": "2026-10-08",
-   "poids": 0.0202
+   "poids": 0.0222
   },
   {
-   "ticker": "GEN",
-   "secteur": "IT",
-   "valeur": 204.19,
-   "prix": 23.25,
-   "prix_achat": 22.75,
-   "perf_depuis_achat": 0.022,
-   "date_achat": "2026-10-08",
-   "poids": 0.0202
-  },
-  {
-   "ticker": "DELL",
-   "secteur": "IT",
-   "valeur": 203.8,
-   "prix": 586.0599975585938,
-   "prix_achat": 574.5499877929688,
-   "perf_depuis_achat": 0.02,
-   "date_achat": "2026-10-08",
-   "poids": 0.0202
-  },
-  {
-   "ticker": "BAX",
-   "secteur": "Santé",
-   "valeur": 203.56,
-   "prix": 24.350000381469727,
-   "prix_achat": 23.899999618530273,
-   "perf_depuis_achat": 0.0188,
-   "date_achat": "2026-10-08",
-   "poids": 0.0202
-  },
-  {
-   "ticker": "NUE",
-   "secteur": "Matériaux",
-   "valeur": 203.2,
-   "prix": 250.3300018310547,
-   "prix_achat": 246.13999938964844,
-   "perf_depuis_achat": 0.017,
-   "date_achat": "2026-10-08",
-   "poids": 0.0201
-  },
-  {
-   "ticker": "IBKR",
+   "ticker": "V",
    "secteur": "Finance",
-   "valeur": 203.03,
-   "prix": 87.87000274658203,
-   "prix_achat": 86.47000122070312,
-   "perf_depuis_achat": 0.0162,
+   "valeur": 214.45,
+   "prix": 402.6099853515625,
+   "prix_achat": 375.1000061035156,
+   "perf_depuis_achat": 0.0733,
    "date_achat": "2026-10-08",
-   "poids": 0.0201
-  },
-  {
-   "ticker": "ABNB",
-   "secteur": "Conso. cyclique",
-   "valeur": 203.03,
-   "prix": 165.8699951171875,
-   "prix_achat": 163.22999572753906,
-   "perf_depuis_achat": 0.0162,
-   "date_achat": "2026-10-08",
-   "poids": 0.0201
-  },
-  {
-   "ticker": "MS",
-   "secteur": "Finance",
-   "valeur": 202.55,
-   "prix": 190.02000427246094,
-   "prix_achat": 187.44000244140625,
-   "perf_depuis_achat": 0.0138,
-   "date_achat": "2026-10-08",
-   "poids": 0.0201
-  },
-  {
-   "ticker": "RVTY",
-   "secteur": "Santé",
-   "valeur": 202.45,
-   "prix": 154.17999267578125,
-   "prix_achat": 152.16000366210938,
-   "perf_depuis_achat": 0.0133,
-   "date_achat": "2026-10-08",
-   "poids": 0.0201
-  },
-  {
-   "ticker": "BAC",
-   "secteur": "Finance",
-   "valeur": 202.45,
-   "prix": 54.31999969482422,
-   "prix_achat": 53.61000061035156,
-   "perf_depuis_achat": 0.0132,
-   "date_achat": "2026-10-08",
-   "poids": 0.0201
-  },
-  {
-   "ticker": "ZBRA",
-   "secteur": "IT",
-   "valeur": 202.44,
-   "prix": 387.17999267578125,
-   "prix_achat": 382.1400146484375,
-   "perf_depuis_achat": 0.0132,
-   "date_achat": "2026-10-08",
-   "poids": 0.0201
-  },
-  {
-   "ticker": "CRL",
-   "secteur": "Santé",
-   "valeur": 202.34,
-   "prix": 301.7900085449219,
-   "prix_achat": 298.0,
-   "perf_depuis_achat": 0.0127,
-   "date_achat": "2026-10-08",
-   "poids": 0.02
+   "poids": 0.022
   },
   {
    "ticker": "CNC",
    "secteur": "Santé",
-   "valeur": 202.34,
-   "prix": 65.36000061035156,
+   "valeur": 214.1,
+   "prix": 69.16000366210938,
    "prix_achat": 64.54000091552734,
-   "perf_depuis_achat": 0.0127,
+   "perf_depuis_achat": 0.0716,
    "date_achat": "2026-10-08",
-   "poids": 0.02
-  },
-  {
-   "ticker": "STX",
-   "secteur": "IT",
-   "valeur": 201.91,
-   "prix": 783.0,
-   "prix_achat": 774.8250122070312,
-   "perf_depuis_achat": 0.0106,
-   "date_achat": "2026-10-08",
-   "poids": 0.02
-  },
-  {
-   "ticker": "SOLV",
-   "secteur": "Santé",
-   "valeur": 201.83,
-   "prix": 87.29000091552734,
-   "prix_achat": 86.41000366210938,
-   "perf_depuis_achat": 0.0102,
-   "date_achat": "2026-10-08",
-   "poids": 0.02
-  },
-  {
-   "ticker": "WST",
-   "secteur": "Santé",
-   "valeur": 201.3,
-   "prix": 366.0,
-   "prix_achat": 363.2699890136719,
-   "perf_depuis_achat": 0.0075,
-   "date_achat": "2026-10-08",
-   "poids": 0.0199
-  },
-  {
-   "ticker": "IQV",
-   "secteur": "Santé",
-   "valeur": 200.57,
-   "prix": 259.8800048828125,
-   "prix_achat": 258.8800048828125,
-   "perf_depuis_achat": 0.0039,
-   "date_achat": "2026-10-08",
-   "poids": 0.0199
-  },
-  {
-   "ticker": "SJM",
-   "secteur": "Conso. de base",
-   "valeur": 200.5,
-   "prix": 119.83000183105469,
-   "prix_achat": 119.41000366210938,
-   "perf_depuis_achat": 0.0035,
-   "date_achat": "2026-10-08",
-   "poids": 0.0199
-  },
-  {
-   "ticker": "MRVL",
-   "secteur": "IT",
-   "valeur": 200.25,
-   "prix": 275.2799987792969,
-   "prix_achat": 274.6600036621094,
-   "perf_depuis_achat": 0.0023,
-   "date_achat": "2026-10-08",
-   "poids": 0.0198
-  },
-  {
-   "ticker": "AES",
-   "secteur": "Services publics",
-   "valeur": 199.93,
-   "prix": 14.9399995803833,
-   "prix_achat": 14.930000305175781,
-   "perf_depuis_achat": 0.0007,
-   "date_achat": "2026-10-08",
-   "poids": 0.0198
-  },
-  {
-   "ticker": "ADP",
-   "secteur": "Industrie",
-   "valeur": 199.91,
-   "prix": 270.8800048828125,
-   "prix_achat": 270.7300109863281,
-   "perf_depuis_achat": 0.0006,
-   "date_achat": "2026-10-08",
-   "poids": 0.0198
-  },
-  {
-   "ticker": "STT",
-   "secteur": "Finance",
-   "valeur": 199.65,
-   "prix": 174.9600067138672,
-   "prix_achat": 175.08999633789062,
-   "perf_depuis_achat": -0.0007,
-   "date_achat": "2026-10-08",
-   "poids": 0.0198
-  },
-  {
-   "ticker": "MET",
-   "secteur": "Finance",
-   "valeur": 199.52,
-   "prix": 98.33000183105469,
-   "prix_achat": 98.47000122070312,
-   "perf_depuis_achat": -0.0014,
-   "date_achat": "2026-10-08",
-   "poids": 0.0198
-  },
-  {
-   "ticker": "NTRS",
-   "secteur": "Finance",
-   "valeur": 199.46,
-   "prix": 168.2100067138672,
-   "prix_achat": 168.5,
-   "perf_depuis_achat": -0.0017,
-   "date_achat": "2026-10-08",
-   "poids": 0.0198
-  },
-  {
-   "ticker": "EXPD",
-   "secteur": "Industrie",
-   "valeur": 199.32,
-   "prix": 193.24000549316406,
-   "prix_achat": 193.7100067138672,
-   "perf_depuis_achat": -0.0024,
-   "date_achat": "2026-10-08",
-   "poids": 0.0197
-  },
-  {
-   "ticker": "BXP",
-   "secteur": "Immobilier",
-   "valeur": 198.89,
-   "prix": 59.04999923706055,
-   "prix_achat": 59.31999969482422,
-   "perf_depuis_achat": -0.0046,
-   "date_achat": "2026-10-08",
-   "poids": 0.0197
+   "poids": 0.022
   },
   {
    "ticker": "PAYX",
    "secteur": "Industrie",
-   "valeur": 198.88,
-   "prix": 103.9800033569336,
+   "valeur": 213.51,
+   "prix": 111.62999725341797,
    "prix_achat": 104.45999908447266,
-   "perf_depuis_achat": -0.0046,
+   "perf_depuis_achat": 0.0686,
    "date_achat": "2026-10-08",
-   "poids": 0.0197
+   "poids": 0.0219
   },
   {
-   "ticker": "BNY",
-   "secteur": "Finance",
-   "valeur": 198.55,
-   "prix": 142.7100067138672,
-   "prix_achat": 143.61000061035156,
-   "perf_depuis_achat": -0.0063,
+   "ticker": "HUM",
+   "secteur": "Santé",
+   "valeur": 213.24,
+   "prix": 413.1600036621094,
+   "prix_achat": 387.1199951171875,
+   "perf_depuis_achat": 0.0673,
    "date_achat": "2026-10-08",
-   "poids": 0.0197
+   "poids": 0.0219
   },
   {
-   "ticker": "MU",
-   "secteur": "IT",
-   "valeur": 198.48,
-   "prix": 1029.0,
-   "prix_achat": 1035.8399658203125,
-   "perf_depuis_achat": -0.0066,
-   "date_achat": "2026-10-08",
-   "poids": 0.0197
-  },
-  {
-   "ticker": "TGT",
+   "ticker": "SJM",
    "secteur": "Conso. de base",
-   "valeur": 198.35,
-   "prix": 153.63999938964844,
-   "prix_achat": 154.75999450683594,
-   "perf_depuis_achat": -0.0072,
+   "valeur": 213.22,
+   "prix": 127.43000030517578,
+   "prix_achat": 119.41000366210938,
+   "perf_depuis_achat": 0.0672,
    "date_achat": "2026-10-08",
-   "poids": 0.0197
+   "poids": 0.0219
   },
   {
-   "ticker": "CPAY",
-   "secteur": "Finance",
-   "valeur": 197.73,
-   "prix": 397.9200134277344,
-   "prix_achat": 402.0799865722656,
-   "perf_depuis_achat": -0.0103,
+   "ticker": "ADP",
+   "secteur": "Industrie",
+   "valeur": 213.21,
+   "prix": 288.8999938964844,
+   "prix_achat": 270.7300109863281,
+   "perf_depuis_achat": 0.0671,
    "date_achat": "2026-10-08",
-   "poids": 0.0196
+   "poids": 0.0219
   },
   {
-   "ticker": "GL",
-   "secteur": "Finance",
-   "valeur": 197.5,
-   "prix": 164.1699981689453,
-   "prix_achat": 166.0800018310547,
-   "perf_depuis_achat": -0.0115,
+   "ticker": "ABNB",
+   "secteur": "Conso. cyclique",
+   "valeur": 212.62,
+   "prix": 173.6999969482422,
+   "prix_achat": 163.22999572753906,
+   "perf_depuis_achat": 0.0641,
    "date_achat": "2026-10-08",
-   "poids": 0.0196
+   "poids": 0.0218
+  },
+  {
+   "ticker": "GEN",
+   "secteur": "IT",
+   "valeur": 212.18,
+   "prix": 24.15999984741211,
+   "prix_achat": 22.75,
+   "perf_depuis_achat": 0.062,
+   "date_achat": "2026-10-08",
+   "poids": 0.0218
+  },
+  {
+   "ticker": "BAX",
+   "secteur": "Santé",
+   "valeur": 211.34,
+   "prix": 25.280000686645508,
+   "prix_achat": 23.899999618530273,
+   "perf_depuis_achat": 0.0577,
+   "date_achat": "2026-10-08",
+   "poids": 0.0217
+  },
+  {
+   "ticker": "WST",
+   "secteur": "Santé",
+   "valeur": 211.21,
+   "prix": 384.0199890136719,
+   "prix_achat": 363.2699890136719,
+   "perf_depuis_achat": 0.0571,
+   "date_achat": "2026-10-08",
+   "poids": 0.0217
+  },
+  {
+   "ticker": "NUE",
+   "secteur": "Matériaux",
+   "valeur": 208.04,
+   "prix": 256.2900085449219,
+   "prix_achat": 246.13999938964844,
+   "perf_depuis_achat": 0.0412,
+   "date_achat": "2026-10-08",
+   "poids": 0.0214
   },
   {
    "ticker": "PSX",
    "secteur": "Énergie",
-   "valeur": 197.37,
-   "prix": 278.17999267578125,
+   "valeur": 208.01,
+   "prix": 293.1700134277344,
    "prix_achat": 281.6000061035156,
-   "perf_depuis_achat": -0.0121,
+   "perf_depuis_achat": 0.0411,
+   "date_achat": "2026-10-08",
+   "poids": 0.0214
+  },
+  {
+   "ticker": "AIZ",
+   "secteur": "Finance",
+   "valeur": 207.45,
+   "prix": 283.30999755859375,
+   "prix_achat": 272.8599853515625,
+   "perf_depuis_achat": 0.0383,
+   "date_achat": "2026-10-08",
+   "poids": 0.0213
+  },
+  {
+   "ticker": "MPC",
+   "secteur": "Énergie",
+   "valeur": 206.15,
+   "prix": 478.07000732421875,
+   "prix_achat": 463.3399963378906,
+   "perf_depuis_achat": 0.0318,
+   "date_achat": "2026-10-08",
+   "poids": 0.0212
+  },
+  {
+   "ticker": "IQV",
+   "secteur": "Santé",
+   "valeur": 205.99,
+   "prix": 266.8999938964844,
+   "prix_achat": 258.8800048828125,
+   "perf_depuis_achat": 0.031,
+   "date_achat": "2026-10-08",
+   "poids": 0.0212
+  },
+  {
+   "ticker": "MET",
+   "secteur": "Finance",
+   "valeur": 204.45,
+   "prix": 100.76000213623047,
+   "prix_achat": 98.47000122070312,
+   "perf_depuis_achat": 0.0233,
+   "date_achat": "2026-10-08",
+   "poids": 0.021
+  },
+  {
+   "ticker": "GL",
+   "secteur": "Finance",
+   "valeur": 203.04,
+   "prix": 168.77000427246094,
+   "prix_achat": 166.0800018310547,
+   "perf_depuis_achat": 0.0162,
+   "date_achat": "2026-10-08",
+   "poids": 0.0209
+  },
+  {
+   "ticker": "EXPD",
+   "secteur": "Industrie",
+   "valeur": 202.07,
+   "prix": 195.91000366210938,
+   "prix_achat": 193.7100067138672,
+   "perf_depuis_achat": 0.0114,
+   "date_achat": "2026-10-08",
+   "poids": 0.0208
+  },
+  {
+   "ticker": "CRL",
+   "secteur": "Santé",
+   "valeur": 201.24,
+   "prix": 300.1499938964844,
+   "prix_achat": 298.0,
+   "perf_depuis_achat": 0.0072,
+   "date_achat": "2026-10-08",
+   "poids": 0.0207
+  },
+  {
+   "ticker": "RVTY",
+   "secteur": "Santé",
+   "valeur": 200.43,
+   "prix": 152.63999938964844,
+   "prix_achat": 152.16000366210938,
+   "perf_depuis_achat": 0.0032,
+   "date_achat": "2026-10-08",
+   "poids": 0.0206
+  },
+  {
+   "ticker": "VLO",
+   "secteur": "Énergie",
+   "valeur": 200.21,
+   "prix": 444.7099914550781,
+   "prix_achat": 443.79998779296875,
+   "perf_depuis_achat": 0.0021,
+   "date_achat": "2026-10-08",
+   "poids": 0.0206
+  },
+  {
+   "ticker": "AES",
+   "secteur": "Services publics",
+   "valeur": 200.07,
+   "prix": 14.949999809265137,
+   "prix_achat": 14.930000305175781,
+   "perf_depuis_achat": 0.0013,
+   "date_achat": "2026-10-08",
+   "poids": 0.0205
+  },
+  {
+   "ticker": "BXP",
+   "secteur": "Immobilier",
+   "valeur": 199.4,
+   "prix": 59.20000076293945,
+   "prix_achat": 59.31999969482422,
+   "perf_depuis_achat": -0.002,
+   "date_achat": "2026-10-08",
+   "poids": 0.0205
+  },
+  {
+   "ticker": "BNY",
+   "secteur": "Finance",
+   "valeur": 199.37,
+   "prix": 143.3000030517578,
+   "prix_achat": 143.61000061035156,
+   "perf_depuis_achat": -0.0022,
+   "date_achat": "2026-10-08",
+   "poids": 0.0205
+  },
+  {
+   "ticker": "TGT",
+   "secteur": "Conso. de base",
+   "valeur": 199.15,
+   "prix": 154.25999450683594,
+   "prix_achat": 154.75999450683594,
+   "perf_depuis_achat": -0.0032,
+   "date_achat": "2026-10-08",
+   "poids": 0.0205
+  },
+  {
+   "ticker": "CPAY",
+   "secteur": "Finance",
+   "valeur": 198.69,
+   "prix": 399.8399963378906,
+   "prix_achat": 402.0799865722656,
+   "perf_depuis_achat": -0.0056,
+   "date_achat": "2026-10-08",
+   "poids": 0.0204
+  },
+  {
+   "ticker": "SOLV",
+   "secteur": "Santé",
+   "valeur": 198.41,
+   "prix": 85.80999755859375,
+   "prix_achat": 86.41000366210938,
+   "perf_depuis_achat": -0.0069,
+   "date_achat": "2026-10-08",
+   "poids": 0.0204
+  },
+  {
+   "ticker": "DASH",
+   "secteur": "Conso. cyclique",
+   "valeur": 197.13,
+   "prix": 189.14999389648438,
+   "prix_achat": 191.7100067138672,
+   "perf_depuis_achat": -0.0134,
+   "date_achat": "2026-10-08",
+   "poids": 0.0202
+  },
+  {
+   "ticker": "NTRS",
+   "secteur": "Finance",
+   "valeur": 196.29,
+   "prix": 165.5399932861328,
+   "prix_achat": 168.5,
+   "perf_depuis_achat": -0.0176,
+   "date_achat": "2026-10-08",
+   "poids": 0.0202
+  },
+  {
+   "ticker": "ZBRA",
+   "secteur": "IT",
+   "valeur": 192.94,
+   "prix": 369.010009765625,
+   "prix_achat": 382.1400146484375,
+   "perf_depuis_achat": -0.0344,
+   "date_achat": "2026-10-08",
+   "poids": 0.0198
+  },
+  {
+   "ticker": "MS",
+   "secteur": "Finance",
+   "valeur": 192.48,
+   "prix": 180.57000732421875,
+   "prix_achat": 187.44000244140625,
+   "perf_depuis_achat": -0.0367,
+   "date_achat": "2026-10-08",
+   "poids": 0.0198
+  },
+  {
+   "ticker": "IBKR",
+   "secteur": "Finance",
+   "valeur": 191.07,
+   "prix": 82.69000244140625,
+   "prix_achat": 86.47000122070312,
+   "perf_depuis_achat": -0.0437,
    "date_achat": "2026-10-08",
    "poids": 0.0196
   },
   {
    "ticker": "BEN",
    "secteur": "Finance",
-   "valeur": 197.33,
-   "prix": 32.0,
+   "valeur": 191.04,
+   "prix": 30.979999542236328,
    "prix_achat": 32.400001525878906,
-   "perf_depuis_achat": -0.0123,
+   "perf_depuis_achat": -0.0438,
    "date_achat": "2026-10-08",
    "poids": 0.0196
   },
   {
-   "ticker": "SNDK",
-   "secteur": "IT",
-   "valeur": 196.37,
-   "prix": 1581.8199462890625,
-   "prix_achat": 1609.4599609375,
-   "perf_depuis_achat": -0.0172,
+   "ticker": "BAC",
+   "secteur": "Finance",
+   "valeur": 190.93,
+   "prix": 51.22999954223633,
+   "prix_achat": 53.61000061035156,
+   "perf_depuis_achat": -0.0444,
    "date_achat": "2026-10-08",
-   "poids": 0.0195
+   "poids": 0.0196
   },
   {
-   "ticker": "MPC",
-   "secteur": "Énergie",
-   "valeur": 196.22,
-   "prix": 455.0299987792969,
-   "prix_achat": 463.3399963378906,
-   "perf_depuis_achat": -0.0179,
+   "ticker": "STT",
+   "secteur": "Finance",
+   "valeur": 189.11,
+   "prix": 165.72000122070312,
+   "prix_achat": 175.08999633789062,
+   "perf_depuis_achat": -0.0535,
    "date_achat": "2026-10-08",
    "poids": 0.0194
+  },
+  {
+   "ticker": "DDOG",
+   "secteur": "IT",
+   "valeur": 180.32,
+   "prix": 247.11000061035156,
+   "prix_achat": 273.79998779296875,
+   "perf_depuis_achat": -0.0975,
+   "date_achat": "2026-10-08",
+   "poids": 0.0185
+  },
+  {
+   "ticker": "FTNT",
+   "secteur": "IT",
+   "valeur": 178.7,
+   "prix": 169.1300048828125,
+   "prix_achat": 189.10000610351562,
+   "perf_depuis_achat": -0.1056,
+   "date_achat": "2026-10-08",
+   "poids": 0.0184
+  },
+  {
+   "ticker": "NTAP",
+   "secteur": "IT",
+   "valeur": 176.24,
+   "prix": 203.8000030517578,
+   "prix_achat": 231.0500030517578,
+   "perf_depuis_achat": -0.1179,
+   "date_achat": "2026-10-08",
+   "poids": 0.0181
+  },
+  {
+   "ticker": "CRWD",
+   "secteur": "IT",
+   "valeur": 172.74,
+   "prix": 227.38999938964844,
+   "prix_achat": 263.010009765625,
+   "perf_depuis_achat": -0.1354,
+   "date_achat": "2026-10-08",
+   "poids": 0.0177
+  },
+  {
+   "ticker": "PANW",
+   "secteur": "IT",
+   "valeur": 171.47,
+   "prix": 342.0,
+   "prix_achat": 398.5,
+   "perf_depuis_achat": -0.1418,
+   "date_achat": "2026-10-08",
+   "poids": 0.0176
   },
   {
    "ticker": "AMD",
    "secteur": "IT",
-   "valeur": 195.75,
-   "prix": 608.0999755859375,
+   "valeur": 170.21,
+   "prix": 528.75,
    "prix_achat": 620.6799926757812,
-   "perf_depuis_achat": -0.0203,
+   "perf_depuis_achat": -0.1481,
    "date_achat": "2026-10-08",
-   "poids": 0.0194
+   "poids": 0.0175
+  },
+  {
+   "ticker": "MU",
+   "secteur": "IT",
+   "valeur": 169.52,
+   "prix": 878.8400268554688,
+   "prix_achat": 1035.8399658203125,
+   "perf_depuis_achat": -0.1516,
+   "date_achat": "2026-10-08",
+   "poids": 0.0174
   },
   {
    "ticker": "INTC",
    "secteur": "IT",
-   "valeur": 195.36,
-   "prix": 104.69999694824219,
+   "valeur": 167.65,
+   "prix": 89.8499984741211,
    "prix_achat": 107.08000183105469,
-   "perf_depuis_achat": -0.0222,
+   "perf_depuis_achat": -0.1609,
    "date_achat": "2026-10-08",
-   "poids": 0.0194
+   "poids": 0.0172
   },
   {
-   "ticker": "VLO",
-   "secteur": "Énergie",
-   "valeur": 195.28,
-   "prix": 433.75,
-   "prix_achat": 443.79998779296875,
-   "perf_depuis_achat": -0.0226,
+   "ticker": "MRVL",
+   "secteur": "IT",
+   "valeur": 165.73,
+   "prix": 227.8300018310547,
+   "prix_achat": 274.6600036621094,
+   "perf_depuis_achat": -0.1705,
    "date_achat": "2026-10-08",
-   "poids": 0.0193
+   "poids": 0.017
   },
   {
-   "ticker": "AIZ",
-   "secteur": "Finance",
-   "valeur": 195.14,
-   "prix": 266.489990234375,
-   "prix_achat": 272.8599853515625,
-   "perf_depuis_achat": -0.0233,
+   "ticker": "STX",
+   "secteur": "IT",
+   "valeur": 164.78,
+   "prix": 639.010009765625,
+   "prix_achat": 774.8250122070312,
+   "perf_depuis_achat": -0.1753,
    "date_achat": "2026-10-08",
-   "poids": 0.0193
+   "poids": 0.0169
+  },
+  {
+   "ticker": "SNDK",
+   "secteur": "IT",
+   "valeur": 161.3,
+   "prix": 1299.300048828125,
+   "prix_achat": 1609.4599609375,
+   "perf_depuis_achat": -0.1927,
+   "date_achat": "2026-10-08",
+   "poids": 0.0166
+  },
+  {
+   "ticker": "DELL",
+   "secteur": "IT",
+   "valeur": 157.08,
+   "prix": 451.7099914550781,
+   "prix_achat": 574.5499877929688,
+   "perf_depuis_achat": -0.2138,
+   "date_achat": "2026-10-08",
+   "poids": 0.0161
+  },
+  {
+   "ticker": "HPE",
+   "secteur": "IT",
+   "valeur": 155.14,
+   "prix": 55.130001068115234,
+   "prix_achat": 71.0,
+   "perf_depuis_achat": -0.2235,
+   "date_achat": "2026-10-08",
+   "poids": 0.0159
   }
  ],
  "repartition_secteurs": {
-  "IT": 0.3022,
-  "Finance": 0.2378,
-  "Santé": 0.203,
-  "Industrie": 0.0592,
-  "Énergie": 0.0583,
-  "Conso. cyclique": 0.0404,
-  "Conso. de base": 0.0396,
-  "Matériaux": 0.0201,
-  "Services publics": 0.0198,
-  "Immobilier": 0.0197
+  "IT": 0.2665,
+  "Finance": 0.2443,
+  "Santé": 0.2148,
+  "Industrie": 0.0646,
+  "Énergie": 0.0632,
+  "Conso. de base": 0.0424,
+  "Conso. cyclique": 0.042,
+  "Matériaux": 0.0214,
+  "Services publics": 0.0205,
+  "Immobilier": 0.0205
  },
  "meilleures_lignes": [
   {
-   "ticker": "HUM",
-   "perf": 0.1156
-  },
-  {
-   "ticker": "DDOG",
-   "perf": 0.0711
-  },
-  {
-   "ticker": "PANW",
-   "perf": 0.0509
-  },
-  {
-   "ticker": "CRWD",
-   "perf": 0.0457
-  },
-  {
    "ticker": "VEEV",
-   "perf": 0.0396
+   "perf": 0.0896
+  },
+  {
+   "ticker": "UNH",
+   "perf": 0.0822
+  },
+  {
+   "ticker": "V",
+   "perf": 0.0733
+  },
+  {
+   "ticker": "CNC",
+   "perf": 0.0716
+  },
+  {
+   "ticker": "PAYX",
+   "perf": 0.0686
   }
  ],
  "pires_lignes": [
   {
-   "ticker": "AIZ",
-   "perf": -0.0233
+   "ticker": "HPE",
+   "perf": -0.2235
   },
   {
-   "ticker": "VLO",
-   "perf": -0.0226
+   "ticker": "DELL",
+   "perf": -0.2138
   },
   {
-   "ticker": "INTC",
-   "perf": -0.0222
+   "ticker": "SNDK",
+   "perf": -0.1927
   },
   {
-   "ticker": "AMD",
-   "perf": -0.0203
+   "ticker": "STX",
+   "perf": -0.1753
   },
   {
-   "ticker": "MPC",
-   "perf": -0.0179
+   "ticker": "MRVL",
+   "perf": -0.1705
   }
  ],
  "signaux_du_mois": [
@@ -911,6 +911,11 @@
    "date": "2026-10-09",
    "strategie": 10092.25,
    "spy": 10059.95
+  },
+  {
+   "date": "2026-10-16",
+   "strategie": 9737.03,
+   "spy": 9862.0
   }
  ]
 }
