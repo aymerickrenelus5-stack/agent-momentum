@@ -8,350 +8,350 @@
    "prix_achat": 163.22999572753906,
    "secteur": "Conso. cyclique",
    "date_achat": "2026-10-08",
-   "dernier_prix": 172.00999450683594
+   "dernier_prix": 164.38999938964844
   },
   "ADP": {
    "actions": 0.7380046241348911,
    "prix_achat": 270.7300109863281,
    "secteur": "Industrie",
    "date_achat": "2026-10-08",
-   "dernier_prix": 304.1600036621094
+   "dernier_prix": 293.8399963378906
   },
   "AES": {
    "actions": 13.382451166510384,
    "prix_achat": 14.930000305175781,
    "secteur": "Services publics",
    "date_achat": "2026-10-08",
-   "dernier_prix": 15.0
+   "dernier_prix": 14.829999923706055
   },
   "AIZ": {
    "actions": 0.732243680738202,
    "prix_achat": 272.8599853515625,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 284.75
+   "dernier_prix": 292.79998779296875
   },
   "AMD": {
    "actions": 0.3219050112098065,
    "prix_achat": 620.6799926757812,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 516.7899780273438
+   "dernier_prix": 504.79998779296875
   },
   "BAC": {
    "actions": 3.7269165776025117,
    "prix_achat": 53.61000061035156,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 50.560001373291016
+   "dernier_prix": 50.0099983215332
   },
   "BAX": {
    "actions": 8.359832769415194,
    "prix_achat": 23.899999618530273,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 25.299999237060547
+   "dernier_prix": 23.0
   },
   "BEN": {
    "actions": 6.166666376247342,
    "prix_achat": 32.400001525878906,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 31.059999465942383
+   "dernier_prix": 31.639999389648438
   },
   "BNY": {
    "actions": 1.3912680116345477,
    "prix_achat": 143.61000061035156,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 145.27000427246094
+   "dernier_prix": 147.11000061035156
   },
   "BXP": {
    "actions": 3.368172640389156,
    "prix_achat": 59.31999969482422,
    "secteur": "Immobilier",
    "date_achat": "2026-10-08",
-   "dernier_prix": 62.099998474121094
+   "dernier_prix": 62.79999923706055
   },
   "CNC": {
    "actions": 3.0957545268942064,
    "prix_achat": 64.54000091552734,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 70.16999816894531
+   "dernier_prix": 68.44999694824219
   },
   "CPAY": {
    "actions": 0.4969160532044787,
    "prix_achat": 402.0799865722656,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 408.4599914550781
+   "dernier_prix": 400.94000244140625
   },
   "CRL": {
    "actions": 0.6704697986577182,
    "prix_achat": 298.0,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 345.3699951171875
+   "dernier_prix": 359.4100036621094
   },
   "CRWD": {
    "actions": 0.7596669046096266,
    "prix_achat": 263.010009765625,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 257.57000732421875
+   "dernier_prix": 250.42999267578125
   },
   "DASH": {
    "actions": 1.0421991184748503,
    "prix_achat": 191.7100067138672,
    "secteur": "Conso. cyclique",
    "date_achat": "2026-10-08",
-   "dernier_prix": 179.3800048828125
+   "dernier_prix": 178.99000549316406
   },
   "DDOG": {
    "actions": 0.7297297622638204,
    "prix_achat": 273.79998779296875,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 269.6499938964844
+   "dernier_prix": 235.27000427246094
   },
   "DELL": {
    "actions": 0.3477504207553742,
    "prix_achat": 574.5499877929688,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 456.44000244140625
+   "dernier_prix": 424.29998779296875
   },
   "EXPD": {
    "actions": 1.0314387128958622,
    "prix_achat": 193.7100067138672,
    "secteur": "Industrie",
    "date_achat": "2026-10-08",
-   "dernier_prix": 196.2100067138672
+   "dernier_prix": 198.85000610351562
   },
   "FTNT": {
    "actions": 1.0565837839826777,
    "prix_achat": 189.10000610351562,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 179.99000549316406
+   "dernier_prix": 136.0800018310547
   },
   "GEN": {
    "actions": 8.782417582417583,
    "prix_achat": 22.75,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 24.8799991607666
+   "dernier_prix": 29.1299991607666
   },
   "GL": {
    "actions": 1.2030346688173033,
    "prix_achat": 166.0800018310547,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 154.7899932861328
+   "dernier_prix": 159.0800018310547
   },
   "HPE": {
    "actions": 2.8140845070422538,
    "prix_achat": 71.0,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 56.689998626708984
+   "dernier_prix": 55.09000015258789
   },
   "HUM": {
    "actions": 0.5161190393679286,
    "prix_achat": 387.1199951171875,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 422.07000732421875
+   "dernier_prix": 414.5
   },
   "IBKR": {
    "actions": 2.3106279308362354,
    "prix_achat": 86.47000122070312,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 80.27999877929688
+   "dernier_prix": 76.9000015258789
   },
   "INTC": {
    "actions": 1.865894626292911,
    "prix_achat": 107.08000183105469,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 86.95999908447266
+   "dernier_prix": 65.76000213623047
   },
   "IQV": {
    "actions": 0.7717861411909495,
    "prix_achat": 258.8800048828125,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 279.3599853515625
+   "dernier_prix": 267.3299865722656
   },
   "MET": {
    "actions": 2.029044353845224,
    "prix_achat": 98.47000122070312,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 98.81999969482422
+   "dernier_prix": 100.0199966430664
   },
   "MPC": {
    "actions": 0.43121682043243226,
    "prix_achat": 463.3399963378906,
    "secteur": "Énergie",
    "date_achat": "2026-10-08",
-   "dernier_prix": 457.2200012207031
+   "dernier_prix": 444.7300109863281
   },
   "MRVL": {
    "actions": 0.7274448311949956,
    "prix_achat": 274.6600036621094,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 228.50999450683594
+   "dernier_prix": 196.39999389648438
   },
   "MS": {
    "actions": 1.0659410872684847,
    "prix_achat": 187.44000244140625,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 179.49000549316406
+   "dernier_prix": 184.3000030517578
   },
   "MU": {
    "actions": 0.19288693870946796,
    "prix_achat": 1035.8399658203125,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 877.5499877929688
+   "dernier_prix": 884.739990234375
   },
   "NTAP": {
    "actions": 0.8647478786453102,
    "prix_achat": 231.0500030517578,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 215.47999572753906
+   "dernier_prix": 199.17999267578125
   },
   "NTRS": {
    "actions": 1.1857566765578635,
    "prix_achat": 168.5,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 167.9199981689453
+   "dernier_prix": 169.16000366210938
   },
   "NUE": {
    "actions": 0.8117331620030983,
    "prix_achat": 246.13999938964844,
    "secteur": "Matériaux",
    "date_achat": "2026-10-08",
-   "dernier_prix": 258.1099853515625
+   "dernier_prix": 273.8699951171875
   },
   "PANW": {
    "actions": 0.5013801756587203,
    "prix_achat": 398.5,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 380.54998779296875
+   "dernier_prix": 365.8699951171875
   },
   "PAYX": {
    "actions": 1.912693870870415,
    "prix_achat": 104.45999908447266,
    "secteur": "Industrie",
    "date_achat": "2026-10-08",
-   "dernier_prix": 118.04000091552734
+   "dernier_prix": 112.12000274658203
   },
   "PSX": {
    "actions": 0.7095170300761781,
    "prix_achat": 281.6000061035156,
    "secteur": "Énergie",
    "date_achat": "2026-10-08",
-   "dernier_prix": 283.17999267578125
+   "dernier_prix": 282.8299865722656
   },
   "RVTY": {
    "actions": 1.3130914510470262,
    "prix_achat": 152.16000366210938,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 158.77000427246094
+   "dernier_prix": 157.0
   },
   "SJM": {
    "actions": 1.6732266466163723,
    "prix_achat": 119.41000366210938,
    "secteur": "Conso. de base",
    "date_achat": "2026-10-08",
-   "dernier_prix": 129.97999572753906
+   "dernier_prix": 129.89999389648438
   },
   "SNDK": {
    "actions": 0.1241410192544447,
    "prix_achat": 1609.4599609375,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 1238.030029296875
+   "dernier_prix": 1150.8900146484375
   },
   "SOLV": {
    "actions": 2.312232282517677,
    "prix_achat": 86.41000366210938,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 85.41000366210938
+   "dernier_prix": 81.33000183105469
   },
   "STT": {
    "actions": 1.1411274440512509,
    "prix_achat": 175.08999633789062,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 167.8300018310547
+   "dernier_prix": 169.77000427246094
   },
   "STX": {
    "actions": 0.25786467505854593,
    "prix_achat": 774.8250122070312,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 630.489990234375
+   "dernier_prix": 644.5800170898438
   },
   "TGT": {
    "actions": 1.2910313200558727,
    "prix_achat": 154.75999450683594,
    "secteur": "Conso. de base",
    "date_achat": "2026-10-08",
-   "dernier_prix": 152.75999450683594
+   "dernier_prix": 154.3800048828125
   },
   "UNH": {
    "actions": 0.5386170465698474,
    "prix_achat": 370.95001220703125,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 418.0899963378906
+   "dernier_prix": 406.9700012207031
   },
   "V": {
    "actions": 0.5326579492106476,
    "prix_achat": 375.1000061035156,
    "secteur": "Finance",
    "date_achat": "2026-10-08",
-   "dernier_prix": 407.9200134277344
+   "dernier_prix": 413.5899963378906
   },
   "VEEV": {
    "actions": 0.7014464350820586,
    "prix_achat": 284.8399963378906,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 323.0400085449219
+   "dernier_prix": 312.9599914550781
   },
   "VLO": {
    "actions": 0.4502028064345195,
    "prix_achat": 443.79998779296875,
    "secteur": "Énergie",
    "date_achat": "2026-10-08",
-   "dernier_prix": 419.2799987792969
+   "dernier_prix": 399.6600036621094
   },
   "WST": {
    "actions": 0.5500041457938338,
    "prix_achat": 363.2699890136719,
    "secteur": "Santé",
    "date_achat": "2026-10-08",
-   "dernier_prix": 392.1499938964844
+   "dernier_prix": 412.6199951171875
   },
   "ZBRA": {
    "actions": 0.5228450105750184,
    "prix_achat": 382.1400146484375,
    "secteur": "IT",
    "date_achat": "2026-10-08",
-   "dernier_prix": 386.45001220703125
+   "dernier_prix": 361.260009765625
   }
  },
  "dernier_reequilibrage": "2026-09",
@@ -659,5 +659,5 @@
    "secteur": "Conso. de base"
   }
  ],
- "derniere_execution": "2026-10-24 06:46 UTC"
+ "derniere_execution": "2026-10-31 06:56 UTC"
 }
